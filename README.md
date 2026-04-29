@@ -1,6 +1,6 @@
 # Paste Monitor
 
-A Chrome extension that intercepts clipboard paste events and automatically masks sensitive data before it reaches the page — with an instant in-page alert and a local paste history log.
+A Chrome extension that intercepts clipboard paste events and automatically masks sensitive data before it reaches the page, with an instant in-page alert and a local paste history log.
 
 Built as a lightweight browser-native DLP (Data Loss Prevention) tool for security-conscious users and practitioners working across multiple environments.
 
@@ -144,6 +144,6 @@ MIT — free to use, fork, and extend.
 
 ## Author
 
-**Githendran Prakash**  
+**[Githendran Prakash](https://www.linkedin.com/in/githendran-06/) **  
 Lead Threat Responder — ThirdLine Advisory  
 [LinkedIn](https://linkedin.com/in/) · [GitHub](https://github.com/)
